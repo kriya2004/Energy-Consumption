@@ -48,7 +48,7 @@ This project is split into two main pipelines:
 
 ### Clone this model locally
 ```bash
-git clone https://github.com/PrathamDesai07/Energy-Consumption-Prediction
+git clone https://github.com/kriya2004/Energy-Consumption
 ```
 
 ### 🔐 Environment Variables
